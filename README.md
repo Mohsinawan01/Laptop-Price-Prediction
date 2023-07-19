@@ -1,1 +1,1 @@
-# My_project
+A project encompassing EDA, data cleaning, feature engineering, modeling, website development, and deployment to create a predictive model that accurately estimates the prices of laptops, enabling informed purchasing decisions.
